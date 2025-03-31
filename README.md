@@ -22,10 +22,10 @@ Demo Video:
 # Components
 Components Already Acquired/Owned
 
-Camera Module	1	Camera for real-time video capture 
-LED Indicator	1	LED for visual alerts	LED Module
-Buzzer	1	Buzzer for auditory alerts	Buzzer
-Arduino Nano	1	Microcontroller board for Sending the led indicator
+| Camera Module	|  1 | 	Camera for real-time video capture | 
+| LED Indicator |	1	| LED for visual alerts	LED Module| 
+| Buzzer	| 1 |	Buzzer for auditory alerts	Buzzer| 
+| Arduino Nano	| 1	| Microcontroller board for Sending the led indicator | 
 
 # Hardware
 Pinout Diagram
