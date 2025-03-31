@@ -41,10 +41,10 @@ Eye Movement Detection Code
 Yawning and Head Nodding Detection Code
 
 # Technologies Used
-OpenCV: Open-source computer vision library used for detecting eye closure, head nodding, and yawning.
-Medipipe: For implementing deep learning-based models to improve the accuracy of drowsiness detection.
-Arduino Nano: The main microcontroller used to trigger alerts based on detection.
-LED & Buzzer: Used to provide visual and auditory feedback for the driver.
+1. OpenCV: Open-source computer vision library used for detecting eye closure, head nodding, and yawning.
+2. Medipipe: For implementing deep learning-based models to improve the accuracy of drowsiness detection.
+3. Arduino Nano: The main microcontroller used to trigger alerts based on detection.
+4. LED & Buzzer: Used to provide visual and auditory feedback for the driver.
 
 
 # Result
