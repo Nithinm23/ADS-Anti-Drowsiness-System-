@@ -30,6 +30,8 @@ Components Already Acquired/Owned
 
 # Hardware
 Pinout Diagram
+[ADS](https://github.com/user-attachments/assets/743ba151-f36a-4de2-a1cd-b14ecb55baa7)
+
 
 # Code Base
 Real-Time Drowsiness Detection Code
