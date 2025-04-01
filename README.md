@@ -19,7 +19,7 @@ Demo Videos
 Project ADS Real-Time Drowsiness Detection and Alert System
 Demo Video: 
 
-https://github.com/Nithinm23/ADS-Anti-Drowsiness-System-/issues/1#issue-2962837989
+<!-- Uploading "VID_20250401_144736.mp4"... -->
 
 
 # Components
