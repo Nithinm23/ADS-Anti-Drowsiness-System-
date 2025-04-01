@@ -3,6 +3,7 @@ import cvzone
 import time
 from cvzone.FaceMeshModule import FaceMeshDetector
 from cvzone.PlotModule import LivePlot
+import winsound  # For beep sound on Windows
 
 # Initialize video capture
 vid = cv2.VideoCapture(0)
