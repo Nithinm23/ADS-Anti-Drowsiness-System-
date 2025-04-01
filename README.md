@@ -17,7 +17,9 @@ Project ADS is a real-time drowsiness detection system designed to enhance drive
 # Demo
 Demo Videos
 Project ADS Real-Time Drowsiness Detection and Alert System
-Demo Video: https://github.com/Nithinm23/ADS-Anti-Drowsiness-System-/issues/1#issue-2962837989
+Demo Video: 
+
+https://github.com/Nithinm23/ADS-Anti-Drowsiness-System-/issues/1#issue-2962837989
 
 
 # Components
