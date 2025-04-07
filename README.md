@@ -22,13 +22,15 @@ Project ADS is a real-time drowsiness detection system designed to enhance drive
 <p align="center"><b>Demo</b></p>
 
 Demo Photos
-https://github.com/user-attachments/assets/ac729fd9-0395-4fcf-9fb2-6dc77e9c21eb
-https://github.com/user-attachments/assets/bc58a70a-d0b9-4ace-9dc8-65e61fb60c79
-https://github.com/user-attachments/assets/85e78761-9927-4acd-9aa9-4cf06ec29e3a
-https://github.com/user-attachments/assets/ca204404-f0bb-4472-8e10-c6e736b3cdd4
-https://github.com/user-attachments/assets/c63f3699-6166-4d4a-b413-48499e138198
-https://github.com/user-attachments/assets/abbafcb8-531b-41cf-b254-61814a9cdeed
-https://github.com/user-attachments/assets/c216811c-f195-4129-b7ed-ba4589fb906a
+
+![Screenshot 2025-04-05 105928](https://github.com/user-attachments/assets/dcd683c8-551a-456a-95a5-ea1468ffaa7a)
+![Screenshot 2025-03-27 165806](https://github.com/user-attachments/assets/3d962934-9445-4580-9528-d630faa814aa)
+![Screenshot 2025-03-27 165746](https://github.com/user-attachments/assets/712d042c-a9e0-4adb-a814-e86aa1783bbb)
+![Screenshot 2025-03-27 165653](https://github.com/user-attachments/assets/fd053aca-a03b-446f-8169-64ddc56432c3)
+![Screenshot 2025-03-27 165637](https://github.com/user-attachments/assets/c29f85ad-f4b9-45b6-bb2e-1227e965481b)
+![Screenshot 2025-03-27 165606](https://github.com/user-attachments/assets/c414e185-de8b-4164-b3d0-05d26ead6232)
+![Screenshot 2025-04-05 110204](https://github.com/user-attachments/assets/40809221-329c-4bf2-a58a-01133809ebba)
+![Screenshot 2025-04-05 110142](https://github.com/user-attachments/assets/6affda22-bec6-447d-acd9-9b3463d2a5d6)
 
 
 # Components
