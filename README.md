@@ -1,22 +1,26 @@
 # Project ADS - Anti Drowsiness System
 # Overview
+<p align="justify">
 Project ADS is an advanced real-time drowsiness detection system designed to significantly improve road safety by continuously monitoring and assessing driver alertness. Using cutting-edge computer vision techniques, the system intelligently identifies signs of driver fatigue such as yawning, eye closure, head nodding, and eye direction. Upon detecting these early indicators, ADS triggers visual alerts through LED blinks, followed by auditory beeps, to warn the driver and reduce the risk of accidents caused by drowsiness.
 
 # Abstract
+<p align="justify">
 Project ADS is a real-time drowsiness detection system designed to enhance driver safety by continuously monitoring and evaluating key indicators of fatigue. By leveraging advanced computer vision algorithms, the system can detect eye movements, yawning, head nodding, and eye direction, triggering immediate alerts to warn the driver. These warnings include visual alerts (LED blinks) and auditory alerts (beeps) to ensure that the driver receives sufficient time to react, minimizing the risk of accidents due to drowsiness.
 
 # Table of Contents
-1. Demo
-2. Components
-3. Hardware
-4. Code Base
-5. Technologies Used
-6. Result
-7. Conclusion
+- [Demo](#Demo)
+- [Components](#Comopnets)
+- [Hardware](#Hardware)
+- [Code Base](#Code-Base)
+- [Chnologies Used](#Chnologies-Used)
+- [Result](#Result)
+- [Conclusion](#Conclusion)
 
-# Demo
-Project ADS Real-Time Drowsiness Detection and Alert System
-Demo video: [ADS](https://github.com/Nithinm23/ADS-Anti-Drowsiness-System-/issues/1#issue-2962837989)
+
+### Simulation Demo
+
+https://github.com/Nithinm23/ADS-Anti-Drowsiness-System-/issues/1#issue-2962837989
+<p align="center"><b>Simulation Demo</b></p>
 
 
 # Components
