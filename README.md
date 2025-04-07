@@ -18,8 +18,9 @@ Project ADS is a real-time drowsiness detection system designed to enhance drive
 
 
 # Demo
-[ADS](https://github.com/Nithinm23/ADS-Anti-Drowsiness-System-/issues/1#issue-2962837989)
-<p align="center"><b>Simulation Demo</b></p>
+https://github.com/user-attachments/assets/6c1867ad-4aa2-4288-a316-79d15c68843c
+
+<p align="center"><b>Demo</b></p>
 
 # Components
 Components Already Acquired/Owned
@@ -32,7 +33,8 @@ Components Already Acquired/Owned
 
 # Hardware
 Pinout Diagram
-[ADS](https://github.com/user-attachments/assets/743ba151-f36a-4de2-a1cd-b14ecb55baa7)
+
+![Screenshot 2025-04-01 185259](https://github.com/user-attachments/assets/2b2fc59a-0da8-45d8-b7fb-86028eccfc35)
 
 
 # Code Base
