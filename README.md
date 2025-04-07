@@ -21,16 +21,21 @@ Project ADS is a real-time drowsiness detection system designed to enhance drive
 [Demo Video](https://github.com/user-attachments/assets/3f30bb0d-1ed4-42ee-8f16-855bc9e00457)
 <p align="center"><b>Demo</b></p>
 
-Demo Photos
+## Demo Photos
 
-![Screenshot 2025-04-05 105928](https://github.com/user-attachments/assets/dcd683c8-551a-456a-95a5-ea1468ffaa7a) | width=100)
-![Screenshot 2025-03-27 165806](https://github.com/user-attachments/assets/3d962934-9445-4580-9528-d630faa814aa)
-![Screenshot 2025-03-27 165746](https://github.com/user-attachments/assets/712d042c-a9e0-4adb-a814-e86aa1783bbb)
-![Screenshot 2025-03-27 165653](https://github.com/user-attachments/assets/fd053aca-a03b-446f-8169-64ddc56432c3)
-![Screenshot 2025-03-27 165637](https://github.com/user-attachments/assets/c29f85ad-f4b9-45b6-bb2e-1227e965481b)
-![Screenshot 2025-03-27 165606](https://github.com/user-attachments/assets/c414e185-de8b-4164-b3d0-05d26ead6232)
-![Screenshot 2025-04-05 110204](https://github.com/user-attachments/assets/40809221-329c-4bf2-a58a-01133809ebba)
-![Screenshot 2025-04-05 110142](https://github.com/user-attachments/assets/6affda22-bec6-447d-acd9-9b3463d2a5d6)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dcd683c8-551a-456a-95a5-ea1468ffaa7a?width=200" alt="Screenshot 2025-04-05 105928" />
+  <img src="https://github.com/user-attachments/assets/3d962934-9445-4580-9528-d630faa814aa?width=200" alt="Screenshot 2025-03-27 165806" />
+  <img src="https://github.com/user-attachments/assets/712d042c-a9e0-4adb-a814-e86aa1783bbb?width=200" alt="Screenshot 2025-03-27 165746" />
+  <img src="https://github.com/user-attachments/assets/fd053aca-a03b-446f-8169-64ddc56432c3?width=200" alt="Screenshot 2025-03-27 165653" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c29f85ad-f4b9-45b6-bb2e-1227e965481b?width=200" alt="Screenshot 2025-03-27 165637" />
+  <img src="https://github.com/user-attachments/assets/c414e185-de8b-4164-b3d0-05d26ead6232?width=200" alt="Screenshot 2025-03-27 165606" />
+  <img src="https://github.com/user-attachments/assets/40809221-329c-4bf2-a58a-01133809ebba?width=200" alt="Screenshot 2025-04-05 110204" />
+  <img src="https://github.com/user-attachments/assets/6affda22-bec6-447d-acd9-9b3463d2a5d6?width=200" alt="Screenshot 2025-04-05 110142" />
+</p>
 
 
 # Components
