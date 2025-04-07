@@ -1,4 +1,4 @@
-![Screenshot 2025-03-27 165606](https://github.com/user-attachments/assets/7676552c-7750-4de0-ab29-db012e9f1000)![Screenshot 2025-04-05 110142](https://github.com/user-attachments/assets/ab4bc794-087e-47bc-b926-800d18a4d9f9)# Project ADS - Anti Drowsiness System
+ Project ADS - Anti Drowsiness System
 # Overview
 <p align="justify">
 Project ADS is an advanced real-time drowsiness detection system designed to significantly improve road safety by continuously monitoring and assessing driver alertness. Using cutting-edge computer vision techniques, the system intelligently identifies signs of driver fatigue such as yawning, eye closure, head nodding, and eye direction. Upon detecting these early indicators, ADS triggers visual alerts through LED blinks, followed by auditory beeps, to warn the driver and reduce the risk of accidents caused by drowsiness.
@@ -22,13 +22,13 @@ Project ADS is a real-time drowsiness detection system designed to enhance drive
 <p align="center"><b>Demo</b></p>
 
 Demo Photos
-[1](https://github.com/user-attachments/assets/ac729fd9-0395-4fcf-9fb2-6dc77e9c21eb)
-[2](https://github.com/user-attachments/assets/bc58a70a-d0b9-4ace-9dc8-65e61fb60c79)
-[3](https://github.com/user-attachments/assets/85e78761-9927-4acd-9aa9-4cf06ec29e3a)
-[4](https://github.com/user-attachments/assets/ca204404-f0bb-4472-8e10-c6e736b3cdd4)
-[5](https://github.com/user-attachments/assets/c63f3699-6166-4d4a-b413-48499e138198)
-[6](https://github.com/user-attachments/assets/abbafcb8-531b-41cf-b254-61814a9cdeed)
-[7](https://github.com/user-attachments/assets/c216811c-f195-4129-b7ed-ba4589fb906a)
+https://github.com/user-attachments/assets/ac729fd9-0395-4fcf-9fb2-6dc77e9c21eb
+https://github.com/user-attachments/assets/bc58a70a-d0b9-4ace-9dc8-65e61fb60c79
+https://github.com/user-attachments/assets/85e78761-9927-4acd-9aa9-4cf06ec29e3a
+https://github.com/user-attachments/assets/ca204404-f0bb-4472-8e10-c6e736b3cdd4
+https://github.com/user-attachments/assets/c63f3699-6166-4d4a-b413-48499e138198
+https://github.com/user-attachments/assets/abbafcb8-531b-41cf-b254-61814a9cdeed
+https://github.com/user-attachments/assets/c216811c-f195-4129-b7ed-ba4589fb906a
 
 
 # Components
