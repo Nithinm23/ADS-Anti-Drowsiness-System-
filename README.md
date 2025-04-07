@@ -51,7 +51,8 @@ Components Already Acquired/Owned
 # Hardware
 Pinout Diagram
 
-[Pin Diagram](https://github.com/user-attachments/assets/2b2fc59a-0da8-45d8-b7fb-86028eccfc35)
+![Screenshot 2025-04-01 185259](https://github.com/user-attachments/assets/c8bc3b6b-5d63-41b7-b55b-5c73479ed511)
+
 
 
 # Code Base
