@@ -6,15 +6,8 @@ from cvzone.FaceMeshModule import FaceMeshDetector
 from cvzone.PlotModule import LivePlot
 import pyfirmata
 
-port = 'COM3'
-
-board = pyfirmata.Arduino(port)
-
-led_pin = 13
-
-
 # Initialize video capture
-vid = cv2.VideoCapture(0)
+vid = cv2.VideoCapture(1)
 
 # Initialize face mesh detector
 detector = FaceMeshDetector(maxFaces=1)
@@ -136,11 +129,6 @@ while True:
             head_pose = "Danger"
             looking_direction = ""
             looking_straight = False
-
-            board.digital[led_pin].write(1)
-            time.sleep(1)
-            board.digital[led_pin].write(0)
-            time.sleep(1)
             # Play beep sound if head pose is "danger"
             winsound.Beep(1000, 500)  # Frequency: 1000Hz, Duration: 500ms
 
@@ -172,8 +160,6 @@ while True:
                 print(f"Yawn detected! Yawn count: {yawn_counter}")
                 if yawn_counter >= 2:  # Trigger beep if yawn count reaches 2
                     print("ALERT: Yawn count reached 2!")
-                    board.digital[led_pin].write(0)
-                    time.sleep(1)
                     'winsound.Beep(1000, 500)'  # Frequency: 1000Hz, Duration: 500ms
         else:
             mouth_opened = False
