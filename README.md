@@ -23,7 +23,7 @@ Project ADS is a real-time drowsiness detection system designed to enhance drive
 
 Demo Photos
 
-![Screenshot 2025-04-05 105928](https://github.com/user-attachments/assets/dcd683c8-551a-456a-95a5-ea1468ffaa7a)
+![Screenshot 2025-04-05 105928](https://github.com/user-attachments/assets/dcd683c8-551a-456a-95a5-ea1468ffaa7a | width=100)
 ![Screenshot 2025-03-27 165806](https://github.com/user-attachments/assets/3d962934-9445-4580-9528-d630faa814aa)
 ![Screenshot 2025-03-27 165746](https://github.com/user-attachments/assets/712d042c-a9e0-4adb-a814-e86aa1783bbb)
 ![Screenshot 2025-03-27 165653](https://github.com/user-attachments/assets/fd053aca-a03b-446f-8169-64ddc56432c3)
