@@ -58,6 +58,14 @@ Pinout Diagram
 
 ![Screenshot 2025-04-01 185259](https://github.com/user-attachments/assets/c8bc3b6b-5d63-41b7-b55b-5c73479ed511)
 
+# Libraries
+
+| Libraries | Description |
+| :---         | :---      |
+| OpenCV | Handles video capture, image processing, and visualization |
+| NumPy | Used for numerical operations and array manipulation |
+| cvzone | Used for simplifying computer vision tasks and overlays |
+| TensorFlow/Keras | Deep learning framework used for model development |
 
 
 # Code Base
