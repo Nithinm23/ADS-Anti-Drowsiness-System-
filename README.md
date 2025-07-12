@@ -77,12 +77,14 @@ Yawning and Head Nodding Detection Code
 
 
 # Result
+<p align="justify">
 Project ADS has successfully demonstrated its ability to monitor driver alertness in real-time. Some of the key accomplishments are:
 Accurate Drowsiness Detection: The system accurately detects signs of drowsiness such as eye closure, yawning, and head nodding.
 Real-Time Alerts: Upon detecting fatigue, the system triggers immediate visual and auditory alerts to warn the driver.
 Scalability: The system can be customized with different camera angles and alert thresholds, making it adaptable to various use cases, such as different car models and driver conditions.
 
 # Conclusion
+<p align="justify">
 Project ADS provides an innovative and scalable solution to enhance road safety by detecting drowsy drivers and providing timely alerts. Using advanced computer vision algorithms, the system ensures continuous monitoring and accurate detection of fatigue, making it an essential tool in preventing accidents caused by driver drowsiness.
 
 The successful integration of real-time monitoring, adaptive camera positioning, and proactive alerting sets ADS apart as an essential system for automotive safety, transportation, and healthcare applications. The project paves the way for further improvements in drowsiness detection technology, helping to save lives on the road.
