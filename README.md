@@ -86,5 +86,5 @@ Scalability: The system can be customized with different camera angles and alert
 # Conclusion
 <p align="justify">
 Project ADS provides an innovative and scalable solution to enhance road safety by detecting drowsy drivers and providing timely alerts. Using advanced computer vision algorithms, the system ensures continuous monitoring and accurate detection of fatigue, making it an essential tool in preventing accidents caused by driver drowsiness.
-
+<p align="justify">
 The successful integration of real-time monitoring, adaptive camera positioning, and proactive alerting sets ADS apart as an essential system for automotive safety, transportation, and healthcare applications. The project paves the way for further improvements in drowsiness detection technology, helping to save lives on the road.
